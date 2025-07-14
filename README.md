@@ -27,8 +27,8 @@
 
 ### 📊 Estadísticas de GitHub
 
-![Jesus Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=**AQUÍ_TU_USUARIO**&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**AQUÍ_TU_USUARIO**&layout=compact&theme=radical)
+![Jesus Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=LGSUSDLR&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LGSUSDLR&layout=compact&theme=radical)
 
 ---
 
